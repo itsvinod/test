@@ -27,3 +27,4 @@ libraryDependencies ++= Seq(
 dependencyOverrides += "org.webjars" % "jquery" % "2.2.4"
 
 TwirlKeys.templateImports += "ejisan.play.libs.PageMeta"
+Rem ddd
